@@ -1,0 +1,10 @@
+
+/env
+env/bin
+env/include
+env/lib
+env/lib64
+
+pyvenv.cfg
+.env
+/home/sofia/Documentos/programacion1/backend/.env
